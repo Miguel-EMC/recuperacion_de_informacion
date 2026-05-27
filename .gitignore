@@ -1,0 +1,15 @@
+# Large data files
+*.csv
+*.tsv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
