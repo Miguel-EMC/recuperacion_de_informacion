@@ -1,6 +1,9 @@
 # Large data files
 *.csv
 *.tsv
+*.npy
+*.pkl
+08VectorDB/milvus_wiki.db/
 
 # Python
 __pycache__/
